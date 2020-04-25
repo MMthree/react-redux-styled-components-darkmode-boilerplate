@@ -98,7 +98,7 @@ function App({ theme, isDark }) {
                     {`<SourceCode />`}
                   </StyledCode>
 
-                  <StyledLink href="https://styled-components.com/" target="_blank">
+                  <StyledLink href="https://github.com/MMthree/react-redux-styled-components-darkmode-boilerplate" target="_blank">
                     <StyledImage src={isDark ? githubLight : githubDark} />
                   </StyledLink>
                 </FlexContainer>
